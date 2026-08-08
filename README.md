@@ -4,9 +4,11 @@ LeetCode 문제를 C로 풀면서 풀이 과정, 실패 원인, 개선 과정과
 
 ## Problems
 
-| # | Problem | Status | First Written | Last Update |
-|---|---|---|---|---|
-| 13 | [Roman to Integer](./problems/0013_roman_to_integer.md) | SOLVED | 2026-08-07 | 2026-08-07 |
+| #  | Problem                                                 | Status | First Written | Last Update |
+| -- | ------------------------------------------------------- | ------ | ------------- | ----------- |
+| 13 | [Roman to Integer](./problems/0013_roman_to_integer.md) | SOLVED | 2026-08-07    | 2026-08-07  |
+| 14 | [Longest Common Prefix](./problems/0014_longest_common_prefix.md) | SOLVED | 2026-08-08 | 2026-08-08 |
+
 
 ## 문서 관리
 
