@@ -2,6 +2,10 @@
 
 LeetCode 문제를 C로 풀면서 풀이 과정, 실패 원인, 개선 과정과 질문을 기록하는 학습 저장소.
 
+Study Log
+Date	Activity
+2026-08-10	프로젝트 회의 및 임베디드 학습으로 인해 LeetCode 문제 풀이 미진행
+
 ## Problems
 
 | #  | Problem                                                 | Status | First Written | Last Update |
